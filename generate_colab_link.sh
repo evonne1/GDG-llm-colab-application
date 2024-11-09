@@ -19,7 +19,7 @@ if [ ! -f "README.md" ]; then
 else
   # 清除 README 中舊的 Colab 連結部分
   sed -i '' '/## Google Colab 連結/,$d' README.md
-  echo -e "\n## Google Colab 連結\n" >> README.md
+  echo -e "\n## Google Colab 連結\n\n" >> README.md
 fi
 
 # 對每個 .ipynb 文件生成 Colab 連結並添加到 README 文件中
@@ -31,7 +31,7 @@ for FILE in $NOTEBOOK_FILES; do
   COLAB_LINK="https://colab.research.google.com/github/$GITHUB_USER/$GITHUB_REPO/blob/main/$NOTEBOOK_NAME"
   
   # 添加到 README
-  echo -e "- $NOTEBOOK_NAME\n  [Google Colab $NOTEBOOK_NAME]($COLAB_LINK)" >> README.md
+  echo -e "- $NOTEBOOK_NAME\n\n  [Google Colab $NOTEBOOK_NAME]($COLAB_LINK)\n\n" >> README.md
 done
 
 echo "所有 Colab 連結已生成並添加到 README.md。"
