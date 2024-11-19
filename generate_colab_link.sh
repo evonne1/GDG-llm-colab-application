@@ -4,8 +4,8 @@
 GITHUB_USER="LiuYuWei"
 GITHUB_REPO="llm-colab-application"
 
-# 檢查是否有 .ipynb 文件
-NOTEBOOK_FILES=$(find . -name "*.ipynb" -type f)
+# 檢查是否有 .ipynb 文件，排除掉 -checkpoint.ipynb 的檔案
+NOTEBOOK_FILES=$(find . -name "*.ipynb" -type f | grep -v "\-checkpoint.ipynb")
 
 if [ -z "$NOTEBOOK_FILES" ]; then
   echo "沒有找到任何 .ipynb 文件。"
@@ -31,7 +31,7 @@ for FILE in $NOTEBOOK_FILES; do
   COLAB_LINK="https://colab.research.google.com/github/$GITHUB_USER/$GITHUB_REPO/blob/main/$NOTEBOOK_NAME"
   
   # 添加到 README
-  echo -e "- $NOTEBOOK_NAME\n\n  [Google Colab $NOTEBOOK_NAME]($COLAB_LINK)\n\n" >> README.md
+  echo -e "- $NOTEBOOK_NAME\n\n  [$NOTEBOOK_NAME]($COLAB_LINK)\n\n" >> README.md
 done
 
 echo "所有 Colab 連結已生成並添加到 README.md。"
