@@ -1,13 +1,16 @@
 # llm-colab-application
 LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
 
-
 ## Google Colab 連結
-
 
 - Simon-LLM-Application-Ollama-LLM-Model-and-RAG.ipynb
 
   [Simon-LLM-Application-Ollama-LLM-Model-and-RAG.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-Ollama-LLM-Model-and-RAG.ipynb)
+
+
+- Simon-LLM-Application-premier-12-chinese-taipei-performance-data-AI-Agent.ipynb.ipynb
+
+  [Simon-LLM-Application-premier-12-chinese-taipei-performance-data-AI-Agent.ipynb.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-premier-12-chinese-taipei-performance-data-AI-Agent.ipynb.ipynb)
 
 
 - Simon-LLM-Application-Gemma-2b-LORA-Fine-Tuning.ipynb
