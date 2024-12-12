@@ -1,7 +1,13 @@
 # llm-colab-application
 LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
 
+
 ## Google Colab 連結
+
+
+- Simon-LLM-Application-Gemini-2-Example-Gemini-AI-Agent-Application.ipynb
+
+  [Simon-LLM-Application-Gemini-2-Example-Gemini-AI-Agent-Application.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-Gemini-2-Example-Gemini-AI-Agent-Application.ipynb)
 
 - Simon-LLM-Application-Ollama-LLM-Model-and-RAG.ipynb
 
