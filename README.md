@@ -34,6 +34,10 @@ LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
 
   [Simon-LLM-Application-premier-12-chinese-taipei-performance-data-AI-Agent.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-premier-12-chinese-taipei-performance-data-AI-Agent.ipynb)
 
+- Simon_LLM_Application_Google_Gemini_model_Openai_agent_sdk_example.ipynb
+
+  [Simon_LLM_Application_Google_Gemini_model_Openai_agent_sdk_example.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_Gemini_model_Openai_agent_sdk_example.ipynb)
+
 ### Gemma
 
 [ LLM as a Service ]
