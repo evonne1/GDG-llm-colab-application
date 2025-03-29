@@ -12,6 +12,10 @@ LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
 
   [Simon-LLM-Application-Google-Gemini-Quickstart.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-Google-Gemini-Quickstart.ipynb)
 
+- Simon_LLM_Application_Google_Gemini_GenAISDK_Full_Method.ipynb
+
+  [Simon_LLM_Application_Google_Gemini_GenAISDK_Full_Method.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_Gemini_GenAISDK_Full_Method.ipynb)
+
 - Simon-LLM-Application-OpenAI-Python-SDK-Google-Gemini-API-v2.ipynb
 
   [Simon-LLM-Application-OpenAI-Python-SDK-Google-Gemini-API-v2.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon-LLM-Application-OpenAI-Python-SDK-Google-Gemini-API-v2.ipynb)
