@@ -38,6 +38,10 @@ LLM AI 模型 Colab 應用 - 由 Simon 整理與撰寫
 
   [Simon_LLM_Application_Google_Gemini_model_Openai_agent_sdk_example.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Application_Google_Gemini_model_Openai_agent_sdk_example.ipynb)
 
+- Simon_LLM_Google_Gemini_Model_API_SDK_MCP_Example.ipynb
+
+  [Simon_LLM_Google_Gemini_Model_API_SDK_MCP_Example.ipynb](https://colab.research.google.com/github/LiuYuWei/llm-colab-application/blob/main/Simon_LLM_Google_Gemini_Model_API_SDK_MCP_Example.ipynb)
+
 [ Model Evaluation ]
 
 - Simon_LLM_Application_Twinkle_Eval_Tool_Google_Gemini_Model_Evaluation.ipynb
